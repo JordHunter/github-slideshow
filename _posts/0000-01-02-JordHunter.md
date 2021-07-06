@@ -1,6 +1,7 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
+You
+Can
+Be
+The
+Boss
+Daddy
 Use the left arrow to go back!
